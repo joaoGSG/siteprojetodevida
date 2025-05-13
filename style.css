@@ -62,7 +62,7 @@ body {
 
 
 .ativo {
-background-color:var(--botao-ativo);
+background-color: var(--botao-ativo);
 border-botton: 4px solid var--(verde);
 
 
@@ -79,10 +79,10 @@ border-botton: 4px solid var--(verde);
         display:flex;
     }
 .botao:first-child {
-border-radius:40px 0 00;
+border-radius:40px 0 0 0;
 }
 .botao:last-child{
-border-radius: 0 40px 00;
+border-radius: 0 40px 0 0;
 }
 
 }
